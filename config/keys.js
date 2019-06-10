@@ -1,3 +1,4 @@
 module.exports = {
-  mongoURI: "mongodb://localhost/myInstagram"
+  mongoURI: "mongodb://localhost/myInstagram",
+  secretOrKey: "secret"
 };
